@@ -3,7 +3,7 @@ Analysis of factors affecting life expectancy. Selecting the best features that 
 ## Context:
 There  have been a lot of studies undertaken in the past on factors affecting life expectancy considering demographic variables, income composition and mortality rates. It was found that affect of immunization and human development index was not taken into account in the past. Also, some of the past research was done considering multiple linear regression based on a data set of one year for all the countries.In a nutshell, this study will focus on immunization factors, mortality factors, economic factors, social factors and other health related factors as well.
 
-## Problem statement:  To predict the life expectancy  by formulating a regression model based on multiple linear regression, Gradient boosting regressor, and Random Forest Regressor while considering data from a period of 2000 to 2015 for all the countries.
+#### Problem statement:  To predict the life expectancy  by formulating a regression model based on multiple linear regression, Gradient boosting regressor, and Random Forest Regressor while considering data from a period of 2000 to 2015 for all the countries.
 
 Data acquisition:
 The data set has been obtained from Kaggle website.The data-sets are made available to public for the purpose of health data analysis. The data-set related to life expectancy, health factors for 193 countries has been collected from the same WHO data repository website and its corresponding economic data was collected from United Nation website.
