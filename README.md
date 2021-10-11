@@ -9,13 +9,28 @@ Data acquisition:
 The data set has been obtained from Kaggle website.The data-sets are made available to public for the purpose of health data analysis. The data-set related to life expectancy, health factors for 193 countries has been collected from the same WHO data repository website and its corresponding economic data was collected from United Nation website.
 link:https://www.kaggle.com/kumarajarshi/life-expectancy-who?select=Life+Expectancy+Data.csv
 
+Methods:Data visualization covers the major part to draw insights.In addition, making pipelines that involved scaling the data, cross validation and Grid search CV were implemented.
+
 The data-set aims to answer the following key questions:
 Does various predicting factors which has been chosen initially really affect the Life expectancy? What are the predicting variables actually affecting the life expectancy?
+
 Should a country having a lower life expectancy value(<65) increase its healthcare expenditure in order to improve its average lifespan?
+
 How does Infant and Adult mortality rates affect life expectancy?
+
 Does Life Expectancy has positive or negative correlation with eating habits, lifestyle, exercise, smoking, drinking alcohol etc.
+
 What is the impact of schooling on the lifespan of humans?
+
 Does Life Expectancy have positive or negative relationship with drinking alcohol?
+
 Do densely populated countries tend to have lower life expectancy?
+
 What is the impact of Immunization coverage on life Expectancy?
+
 The  key questions can be addressed by determining the predicting factor using multiple regression model, which is contributing to a lower value of life expectancy. This will help in suggesting a country which area should be given importance in order to efficiently improve the life expectancy of its population.
+
+Some of the important features were found to be :
+
+![image](https://user-images.githubusercontent.com/81497126/136759706-35100b12-db93-4750-b2f5-b75e3d5bbcd7.png)
+
